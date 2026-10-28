@@ -1,0 +1,3 @@
+# 10. ALL fails when both nonempty stores report failure
+SUCCESS  # ship initialized
+FAIL

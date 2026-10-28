@@ -1,0 +1,4 @@
+# 9. ALL handles an empty secondary store
+GT4500,1,0,0,0
+TORPEDO,ALL
+TORPEDO,ALL

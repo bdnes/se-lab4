@@ -1,0 +1,5 @@
+# 3. SINGLE reuses primary when secondary is empty, then runs out
+SUCCESS  # ship initialized
+SUCCESS
+SUCCESS
+FAIL

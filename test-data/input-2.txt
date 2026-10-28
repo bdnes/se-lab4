@@ -1,0 +1,5 @@
+# 3. SINGLE reuses primary when secondary is empty, then runs out
+GT4500,2,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
