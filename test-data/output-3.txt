@@ -1,0 +1,5 @@
+# 4. SINGLE uses secondary when primary is empty, then runs out
+SUCCESS  # ship initialized
+SUCCESS
+SUCCESS
+FAIL

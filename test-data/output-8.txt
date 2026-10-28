@@ -1,0 +1,4 @@
+# 9. ALL handles an empty secondary store
+SUCCESS  # ship initialized
+SUCCESS
+FAIL

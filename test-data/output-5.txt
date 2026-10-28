@@ -1,0 +1,4 @@
+# 6. ALL succeeds if only secondary fires; failed primary cannot fire later
+SUCCESS  # ship initialized
+SUCCESS
+FAIL

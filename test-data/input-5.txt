@@ -1,0 +1,4 @@
+# 6. ALL succeeds if only secondary fires; failed primary cannot fire later
+GT4500,1,1,1,0
+TORPEDO,ALL
+TORPEDO,ALL

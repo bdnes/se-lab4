@@ -1,0 +1,5 @@
+# 5. ALL consumes one torpedo from each store; both then remain empty
+GT4500,1,0,1,0
+TORPEDO,ALL
+TORPEDO,SINGLE
+TORPEDO,ALL

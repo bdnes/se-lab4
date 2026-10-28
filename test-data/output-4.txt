@@ -1,0 +1,5 @@
+# 5. ALL consumes one torpedo from each store; both then remain empty
+SUCCESS  # ship initialized
+SUCCESS
+FAIL
+FAIL
